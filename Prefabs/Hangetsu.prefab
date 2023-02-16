@@ -777,7 +777,7 @@ GameObject:
   - component: {fileID: 6350619903118433610}
   - component: {fileID: 6350619903118433609}
   m_Layer: 0
-  m_Name: robot
+  m_Name: Hangetsu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
