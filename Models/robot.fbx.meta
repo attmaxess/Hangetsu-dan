@@ -30,9 +30,19 @@ ModelImporter:
   - first:
       74: -5983855531698116935
     second: combo
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RedSwordBlade
+    second: {fileID: 2100000, guid: 358a87681caef497589b278bdeb25a5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: robot_TEX
+    second: {fileID: 2100000, guid: 30f0bfec4036d4e8cb4914fbdfc982fa, type: 2}
   materials:
-    materialImportMode: 2
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -59,7 +69,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
-    isReadable: 0
+    isReadable: 1
   meshes:
     lODScreenPercentages: []
     globalScale: 1
