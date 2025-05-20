@@ -75,13 +75,40 @@ ModelImporter:
       animation that will be discarded.\n\t'Clavicule_L' has translation animation
       that will be discarded.\n\t'Epaule_L' has translation animation that will be
       discarded.\n\t'Coude_L' has translation animation that will be discarded.\n\t'Main_L'
+      has translation animation that will be discarded.\n\t'Index1_L' has translation
+      animation that will be discarded.\n\t'Hanche_R' has translation animation that
+      will be discarded.\n\t'Genou_R' has translation animation that will be discarded.\n\t'Pied_R'
+      has translation animation that will be discarded.\n\t'Orteil_R' has translation
+      animation that will be discarded.\n\t'Hanche_L' has translation animation that
+      will be discarded.\n\t'Genou_L' has translation animation that will be discarded.\n\t'Pied_L'
+      has translation animation that will be discarded.\n\t'Orteil_L' has translation
+      animation that will be discarded.\n\nClip 'run' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Spine1' has translation animation that
+      will be discarded.\n\t'Spine2' has translation animation that will be discarded.\n\t'Spine3'
+      has translation animation that will be discarded.\n\t'Cou' has translation
+      animation that will be discarded.\n\t'Tete' has translation animation that
+      will be discarded.\n\t'Antenne' has translation animation that will be discarded.\n\t'Clavicule_R'
+      has translation animation that will be discarded.\n\t'Epaule_R' has translation
+      animation that will be discarded.\n\t'Coude_R' has translation animation that
+      will be discarded.\n\t'Main_R' has translation animation that will be discarded.\n\t'Pouce1_R'
+      has translation animation that will be discarded.\n\t'Pouce2_R' has translation
+      animation that will be discarded.\n\t'Pouce3_R' has translation animation that
+      will be discarded.\n\t'Index1_R' has translation animation that will be discarded.\n\t'Index2_R'
+      has translation animation that will be discarded.\n\t'Index3_R' has translation
+      animation that will be discarded.\n\t'Majeur1_R' has translation animation
+      that will be discarded.\n\t'Majeur2_R' has translation animation that will
+      be discarded.\n\t'Majeur3_R' has translation animation that will be discarded.\n\t'Clavicule_L'
+      has translation animation that will be discarded.\n\t'Epaule_L' has translation
+      animation that will be discarded.\n\t'Coude_L' has translation animation that
+      will be discarded.\n\t'Main_L' has translation animation that will be discarded.\n\t'Index1_L'
       has translation animation that will be discarded.\n\t'Hanche_R' has translation
       animation that will be discarded.\n\t'Genou_R' has translation animation that
       will be discarded.\n\t'Pied_R' has translation animation that will be discarded.\n\t'Orteil_R'
       has translation animation that will be discarded.\n\t'Hanche_L' has translation
       animation that will be discarded.\n\t'Genou_L' has translation animation that
       will be discarded.\n\t'Pied_L' has translation animation that will be discarded.\n\t'Orteil_L'
-      has translation animation that will be discarded.\n\nClip 'run' has import
+      has translation animation that will be discarded.\n\nClip 'jump' has import
       animation warnings that might lower retargeting quality:\nNote: Activate translation
       DOF on avatar to improve retargeting quality.\n\t'Spine1' has translation animation
       that will be discarded.\n\t'Spine2' has translation animation that will be
@@ -101,47 +128,22 @@ ModelImporter:
       that will be discarded.\n\t'Clavicule_L' has translation animation that will
       be discarded.\n\t'Epaule_L' has translation animation that will be discarded.\n\t'Coude_L'
       has translation animation that will be discarded.\n\t'Main_L' has translation
-      animation that will be discarded.\n\t'Hanche_R' has translation animation that
-      will be discarded.\n\t'Genou_R' has translation animation that will be discarded.\n\t'Pied_R'
-      has translation animation that will be discarded.\n\t'Orteil_R' has translation
-      animation that will be discarded.\n\t'Hanche_L' has translation animation that
-      will be discarded.\n\t'Genou_L' has translation animation that will be discarded.\n\t'Pied_L'
-      has translation animation that will be discarded.\n\t'Orteil_L' has translation
-      animation that will be discarded.\n\nClip 'jump' has import animation warnings
-      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
-      to improve retargeting quality.\n\t'Spine1' has translation animation that
-      will be discarded.\n\t'Spine2' has translation animation that will be discarded.\n\t'Spine3'
-      has translation animation that will be discarded.\n\t'Cou' has translation
-      animation that will be discarded.\n\t'Tete' has translation animation that
-      will be discarded.\n\t'Antenne' has translation animation that will be discarded.\n\t'Clavicule_R'
-      has translation animation that will be discarded.\n\t'Epaule_R' has translation
-      animation that will be discarded.\n\t'Coude_R' has translation animation that
-      will be discarded.\n\t'Main_R' has translation animation that will be discarded.\n\t'Pouce1_R'
-      has translation animation that will be discarded.\n\t'Pouce2_R' has translation
-      animation that will be discarded.\n\t'Pouce3_R' has translation animation that
-      will be discarded.\n\t'Index1_R' has translation animation that will be discarded.\n\t'Index2_R'
-      has translation animation that will be discarded.\n\t'Index3_R' has translation
-      animation that will be discarded.\n\t'Majeur1_R' has translation animation
-      that will be discarded.\n\t'Majeur2_R' has translation animation that will
-      be discarded.\n\t'Majeur3_R' has translation animation that will be discarded.\n\t'Clavicule_L'
-      has translation animation that will be discarded.\n\t'Epaule_L' has translation
-      animation that will be discarded.\n\t'Coude_L' has translation animation that
-      will be discarded.\n\t'Main_L' has translation animation that will be discarded.\n\t'Hanche_R'
-      has translation animation that will be discarded.\n\t'Genou_R' has translation
-      animation that will be discarded.\n\t'Pied_R' has translation animation that
-      will be discarded.\n\t'Orteil_R' has translation animation that will be discarded.\n\t'Hanche_L'
-      has translation animation that will be discarded.\n\t'Genou_L' has translation
-      animation that will be discarded.\n\t'Pied_L' has translation animation that
-      will be discarded.\n\t'Orteil_L' has translation animation that will be discarded.\n\nClip
-      'fall' has import animation warnings that might lower retargeting quality:\nNote:
-      Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
-      has translation animation that will be discarded.\n\t'Spine2' has translation
-      animation that will be discarded.\n\t'Spine3' has translation animation that
-      will be discarded.\n\t'Cou' has translation animation that will be discarded.\n\t'Tete'
-      has translation animation that will be discarded.\n\t'Antenne' has translation
-      animation that will be discarded.\n\t'Clavicule_R' has translation animation
-      that will be discarded.\n\t'Epaule_R' has translation animation that will be
-      discarded.\n\t'Coude_R' has translation animation that will be discarded.\n\t'Main_R'
+      animation that will be discarded.\n\t'Index1_L' has translation animation that
+      will be discarded.\n\t'Hanche_R' has translation animation that will be discarded.\n\t'Genou_R'
+      has translation animation that will be discarded.\n\t'Pied_R' has translation
+      animation that will be discarded.\n\t'Orteil_R' has translation animation that
+      will be discarded.\n\t'Hanche_L' has translation animation that will be discarded.\n\t'Genou_L'
+      has translation animation that will be discarded.\n\t'Pied_L' has translation
+      animation that will be discarded.\n\t'Orteil_L' has translation animation that
+      will be discarded.\n\nClip 'fall' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'Spine1' has translation animation that will be discarded.\n\t'Spine2'
+      has translation animation that will be discarded.\n\t'Spine3' has translation
+      animation that will be discarded.\n\t'Cou' has translation animation that will
+      be discarded.\n\t'Tete' has translation animation that will be discarded.\n\t'Antenne'
+      has translation animation that will be discarded.\n\t'Clavicule_R' has translation
+      animation that will be discarded.\n\t'Epaule_R' has translation animation that
+      will be discarded.\n\t'Coude_R' has translation animation that will be discarded.\n\t'Main_R'
       has translation animation that will be discarded.\n\t'Pouce1_R' has translation
       animation that will be discarded.\n\t'Pouce2_R' has translation animation that
       will be discarded.\n\t'Pouce3_R' has translation animation that will be discarded.\n\t'Index1_R'
@@ -152,14 +154,15 @@ ModelImporter:
       animation that will be discarded.\n\t'Clavicule_L' has translation animation
       that will be discarded.\n\t'Epaule_L' has translation animation that will be
       discarded.\n\t'Coude_L' has translation animation that will be discarded.\n\t'Main_L'
-      has translation animation that will be discarded.\n\t'Hanche_R' has translation
-      animation that will be discarded.\n\t'Genou_R' has translation animation that
-      will be discarded.\n\t'Pied_R' has translation animation that will be discarded.\n\t'Orteil_R'
-      has translation animation that will be discarded.\n\t'Hanche_L' has translation
-      animation that will be discarded.\n\t'Genou_L' has translation animation that
-      will be discarded.\n\t'Pied_L' has translation animation that will be discarded.\n\t'Orteil_L'
-      has translation animation that will be discarded.\n\nClip 'reception' has import
-      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      has translation animation that will be discarded.\n\t'Index1_L' has translation
+      animation that will be discarded.\n\t'Hanche_R' has translation animation that
+      will be discarded.\n\t'Genou_R' has translation animation that will be discarded.\n\t'Pied_R'
+      has translation animation that will be discarded.\n\t'Orteil_R' has translation
+      animation that will be discarded.\n\t'Hanche_L' has translation animation that
+      will be discarded.\n\t'Genou_L' has translation animation that will be discarded.\n\t'Pied_L'
+      has translation animation that will be discarded.\n\t'Orteil_L' has translation
+      animation that will be discarded.\n\nClip 'reception' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
       DOF on avatar to improve retargeting quality.\n\t'Spine1' has translation animation
       that will be discarded.\n\t'Spine2' has translation animation that will be
       discarded.\n\t'Spine3' has translation animation that will be discarded.\n\t'Cou'
@@ -180,69 +183,17 @@ ModelImporter:
       animation that will be discarded.\n\t'Clavicule_L' has translation animation
       that will be discarded.\n\t'Epaule_L' has translation animation that will be
       discarded.\n\t'Coude_L' has translation animation that will be discarded.\n\t'Main_L'
-      has translation animation that will be discarded.\n\t'Hanche_R' has translation
-      animation that will be discarded.\n\t'Genou_R' has translation animation that
-      will be discarded.\n\t'Pied_R' has translation animation that will be discarded.\n\t'Orteil_R'
-      has translation animation that will be discarded.\n\t'Hanche_L' has translation
-      animation that will be discarded.\n\t'Genou_L' has translation animation that
-      will be discarded.\n\t'Pied_L' has translation animation that will be discarded.\n\t'Orteil_L'
-      has translation animation that will be discarded.\n\nClip 'glisse' has import
-      animation warnings that might lower retargeting quality:\nNote: Activate translation
-      DOF on avatar to improve retargeting quality.\n\t'Spine2' has translation animation
-      that will be discarded.\n\t'Spine3' has translation animation that will be
-      discarded.\n\t'Cou' has translation animation that will be discarded.\n\t'Tete'
-      has translation animation that will be discarded.\n\t'Antenne' has translation
-      animation that will be discarded.\n\t'Clavicule_R' has translation animation
-      that will be discarded.\n\t'Epaule_R' has translation animation that will be
-      discarded.\n\t'Coude_R' has translation animation that will be discarded.\n\t'Main_R'
-      has translation animation that will be discarded.\n\t'Pouce1_R' has translation
-      animation that will be discarded.\n\t'Pouce2_R' has translation animation that
-      will be discarded.\n\t'Pouce3_R' has translation animation that will be discarded.\n\t'Index1_R'
-      has translation animation that will be discarded.\n\t'Index2_R' has translation
-      animation that will be discarded.\n\t'Index3_R' has translation animation that
-      will be discarded.\n\t'Majeur1_R' has translation animation that will be discarded.\n\t'Majeur2_R'
-      has translation animation that will be discarded.\n\t'Majeur3_R' has translation
-      animation that will be discarded.\n\t'Clavicule_L' has translation animation
-      that will be discarded.\n\t'Epaule_L' has translation animation that will be
-      discarded.\n\t'Coude_L' has translation animation that will be discarded.\n\t'Main_L'
-      has translation animation that will be discarded.\n\t'Hanche_R' has translation
-      animation that will be discarded.\n\t'Genou_R' has translation animation that
-      will be discarded.\n\t'Pied_R' has translation animation that will be discarded.\n\t'Orteil_R'
-      has translation animation that will be discarded.\n\t'Hanche_L' has translation
-      animation that will be discarded.\n\t'Genou_L' has translation animation that
-      will be discarded.\n\t'Pied_L' has translation animation that will be discarded.\n\t'Orteil_L'
-      has translation animation that will be discarded.\n\nClip 'ATK1' has import
-      animation warnings that might lower retargeting quality:\nNote: Activate translation
-      DOF on avatar to improve retargeting quality.\n\t'Spine1' has translation animation
-      that will be discarded.\n\t'Spine2' has translation animation that will be
-      discarded.\n\t'Spine3' has translation animation that will be discarded.\n\t'Cou'
-      has translation animation that will be discarded.\n\t'Tete' has translation
-      animation that will be discarded.\n\t'Antenne' has translation animation that
-      will be discarded.\n\t'Clavicule_R' has translation animation that will be
-      discarded.\n\t'Epaule_R' has translation animation that will be discarded.\n\t'Coude_R'
-      has translation animation that will be discarded.\n\t'Main_R' has translation
-      animation that will be discarded.\n\t'Pouce1_R' has translation animation that
-      will be discarded.\n\t'Pouce2_R' has translation animation that will be discarded.\n\t'Pouce2_R'
-      has scale animation that will be discarded.\n\t'Pouce3_R' has translation animation
-      that will be discarded.\n\t'Pouce3_R' has scale animation that will be discarded.\n\t'Index1_R'
-      has translation animation that will be discarded.\n\t'Index2_R' has translation
-      animation that will be discarded.\n\t'Index2_R' has scale animation that will
-      be discarded.\n\t'Index3_R' has translation animation that will be discarded.\n\t'Majeur1_R'
-      has translation animation that will be discarded.\n\t'Majeur2_R' has translation
-      animation that will be discarded.\n\t'Majeur3_R' has translation animation
-      that will be discarded.\n\t'Clavicule_L' has translation animation that will
-      be discarded.\n\t'Epaule_L' has translation animation that will be discarded.\n\t'Coude_L'
-      has translation animation that will be discarded.\n\t'Main_L' has translation
-      animation that will be discarded.\n\t'Main_L' has scale animation that will
-      be discarded.\n\t'Genou_R' has translation animation that will be discarded.\n\t'Pied_R'
+      has translation animation that will be discarded.\n\t'Index1_L' has translation
+      animation that will be discarded.\n\t'Hanche_R' has translation animation that
+      will be discarded.\n\t'Genou_R' has translation animation that will be discarded.\n\t'Pied_R'
       has translation animation that will be discarded.\n\t'Orteil_R' has translation
-      animation that will be discarded.\n\t'Genou_L' has translation animation that
-      will be discarded.\n\t'Pied_L' has translation animation that will be discarded.\n\t'Orteil_L'
-      has translation animation that will be discarded.\n\nClip 'ATK2' has import
-      animation warnings that might lower retargeting quality:\nNote: Activate translation
-      DOF on avatar to improve retargeting quality.\n\t'Spine1' has translation animation
-      that will be discarded.\n\t'Spine2' has translation animation that will be
-      discarded.\n\t'Spine3' has translation animation that will be discarded.\n\t'Cou'
+      animation that will be discarded.\n\t'Hanche_L' has translation animation that
+      will be discarded.\n\t'Genou_L' has translation animation that will be discarded.\n\t'Pied_L'
+      has translation animation that will be discarded.\n\t'Orteil_L' has translation
+      animation that will be discarded.\n\nClip 'glisse' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Spine2' has translation animation that
+      will be discarded.\n\t'Spine3' has translation animation that will be discarded.\n\t'Cou'
       has translation animation that will be discarded.\n\t'Tete' has translation
       animation that will be discarded.\n\t'Antenne' has translation animation that
       will be discarded.\n\t'Clavicule_R' has translation animation that will be
@@ -258,8 +209,64 @@ ModelImporter:
       that will be discarded.\n\t'Clavicule_L' has translation animation that will
       be discarded.\n\t'Epaule_L' has translation animation that will be discarded.\n\t'Coude_L'
       has translation animation that will be discarded.\n\t'Main_L' has translation
-      animation that will be discarded.\n\t'Genou_R' has translation animation that
-      will be discarded.\n\t'Pied_R' has translation animation that will be discarded.\n\t'Orteil_R'
+      animation that will be discarded.\n\t'Index1_L' has translation animation that
+      will be discarded.\n\t'Hanche_R' has translation animation that will be discarded.\n\t'Genou_R'
+      has translation animation that will be discarded.\n\t'Pied_R' has translation
+      animation that will be discarded.\n\t'Orteil_R' has translation animation that
+      will be discarded.\n\t'Hanche_L' has translation animation that will be discarded.\n\t'Genou_L'
+      has translation animation that will be discarded.\n\t'Pied_L' has translation
+      animation that will be discarded.\n\t'Orteil_L' has translation animation that
+      will be discarded.\n\nClip 'ATK1' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'Spine1' has translation animation that will be discarded.\n\t'Spine2'
+      has translation animation that will be discarded.\n\t'Spine3' has translation
+      animation that will be discarded.\n\t'Cou' has translation animation that will
+      be discarded.\n\t'Tete' has translation animation that will be discarded.\n\t'Antenne'
+      has translation animation that will be discarded.\n\t'Clavicule_R' has translation
+      animation that will be discarded.\n\t'Epaule_R' has translation animation that
+      will be discarded.\n\t'Coude_R' has translation animation that will be discarded.\n\t'Main_R'
+      has translation animation that will be discarded.\n\t'Pouce1_R' has translation
+      animation that will be discarded.\n\t'Pouce2_R' has translation animation that
+      will be discarded.\n\t'Pouce2_R' has scale animation that will be discarded.\n\t'Pouce3_R'
+      has translation animation that will be discarded.\n\t'Pouce3_R' has scale animation
+      that will be discarded.\n\t'Index1_R' has translation animation that will be
+      discarded.\n\t'Index2_R' has translation animation that will be discarded.\n\t'Index2_R'
+      has scale animation that will be discarded.\n\t'Index3_R' has translation animation
+      that will be discarded.\n\t'Majeur1_R' has translation animation that will
+      be discarded.\n\t'Majeur2_R' has translation animation that will be discarded.\n\t'Majeur3_R'
+      has translation animation that will be discarded.\n\t'Clavicule_L' has translation
+      animation that will be discarded.\n\t'Epaule_L' has translation animation that
+      will be discarded.\n\t'Coude_L' has translation animation that will be discarded.\n\t'Main_L'
+      has translation animation that will be discarded.\n\t'Main_L' has scale animation
+      that will be discarded.\n\t'Index1_L' has translation animation that will be
+      discarded.\n\t'Index1_L' has scale animation that will be discarded.\n\t'Genou_R'
+      has translation animation that will be discarded.\n\t'Pied_R' has translation
+      animation that will be discarded.\n\t'Orteil_R' has translation animation that
+      will be discarded.\n\t'Genou_L' has translation animation that will be discarded.\n\t'Pied_L'
+      has translation animation that will be discarded.\n\t'Orteil_L' has translation
+      animation that will be discarded.\n\nClip 'ATK2' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Spine1' has translation animation that
+      will be discarded.\n\t'Spine2' has translation animation that will be discarded.\n\t'Spine3'
+      has translation animation that will be discarded.\n\t'Cou' has translation
+      animation that will be discarded.\n\t'Tete' has translation animation that
+      will be discarded.\n\t'Antenne' has translation animation that will be discarded.\n\t'Clavicule_R'
+      has translation animation that will be discarded.\n\t'Epaule_R' has translation
+      animation that will be discarded.\n\t'Coude_R' has translation animation that
+      will be discarded.\n\t'Main_R' has translation animation that will be discarded.\n\t'Pouce1_R'
+      has translation animation that will be discarded.\n\t'Pouce2_R' has translation
+      animation that will be discarded.\n\t'Pouce3_R' has translation animation that
+      will be discarded.\n\t'Index1_R' has translation animation that will be discarded.\n\t'Index2_R'
+      has translation animation that will be discarded.\n\t'Index3_R' has translation
+      animation that will be discarded.\n\t'Majeur1_R' has translation animation
+      that will be discarded.\n\t'Majeur2_R' has translation animation that will
+      be discarded.\n\t'Majeur3_R' has translation animation that will be discarded.\n\t'Clavicule_L'
+      has translation animation that will be discarded.\n\t'Epaule_L' has translation
+      animation that will be discarded.\n\t'Coude_L' has translation animation that
+      will be discarded.\n\t'Main_L' has translation animation that will be discarded.\n\t'Index1_L'
+      has translation animation that will be discarded.\n\t'Index1_L' has scale animation
+      that will be discarded.\n\t'Genou_R' has translation animation that will be
+      discarded.\n\t'Pied_R' has translation animation that will be discarded.\n\t'Orteil_R'
       has translation animation that will be discarded.\n\t'Genou_L' has translation
       animation that will be discarded.\n\t'Pied_L' has translation animation that
       will be discarded.\n\t'Orteil_L' has translation animation that will be discarded.\n\nClip
@@ -283,11 +290,12 @@ ModelImporter:
       that will be discarded.\n\t'Clavicule_L' has translation animation that will
       be discarded.\n\t'Epaule_L' has translation animation that will be discarded.\n\t'Coude_L'
       has translation animation that will be discarded.\n\t'Main_L' has translation
-      animation that will be discarded.\n\t'Genou_R' has translation animation that
-      will be discarded.\n\t'Pied_R' has translation animation that will be discarded.\n\t'Orteil_R'
-      has translation animation that will be discarded.\n\t'Genou_L' has translation
-      animation that will be discarded.\n\t'Pied_L' has translation animation that
-      will be discarded.\n\t'Orteil_L' has translation animation that will be discarded.\n"
+      animation that will be discarded.\n\t'Index1_L' has translation animation that
+      will be discarded.\n\t'Genou_R' has translation animation that will be discarded.\n\t'Pied_R'
+      has translation animation that will be discarded.\n\t'Orteil_R' has translation
+      animation that will be discarded.\n\t'Genou_L' has translation animation that
+      will be discarded.\n\t'Pied_L' has translation animation that will be discarded.\n\t'Orteil_L'
+      has translation animation that will be discarded.\n"
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
@@ -345,7 +353,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  referencedClips: []
+  referencedClips:
+  - 61eee1b858063bf40937c875fd438592
+  - cc0de2678c3c4244a9c67c9ec8762f78
+  - 996bd2416f5f9504889dc5fcba05e1e3
   importAnimation: 1
   humanDescription:
     serializedVersion: 3
